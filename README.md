@@ -17,7 +17,7 @@ This project explores the IBM HR Analytics dataset to understand patterns and fa
 ### 1. **Attrition by Department**
 Bar chart showing count of employees across departments, filtered by Attrition status.
 
-### 2. **Attrition vs Job Satisfaction **
+### 2. **Attrition vs Job Satisfaction**
 Stacked bar chart showing how job satisfaction varies for employees working overtime.
 
 ### 3. **Monthly Income vs Attrition**
